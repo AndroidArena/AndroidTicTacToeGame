@@ -1,4 +1,4 @@
-# AndroidTicTacToeGame
+# Android Tic Tac Toe Game using Clean Architeture + Dagger hilt and Junit
 In this project I have developed Tic Tac Toe Game in Android with Unit Test cases.
 
 Tech Stack - 
