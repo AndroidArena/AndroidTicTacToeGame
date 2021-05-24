@@ -1,4 +1,4 @@
-# Android Tic Tac Toe Game using Clean Architeture + Dagger hilt and Junit
+# Android Tic Tac Toe NxN board Game using Clean Architeture + Dagger hilt and Junit
 Tic Tac Toe Game in Android with Unit Test cases.
 
 Tech Stack - 
